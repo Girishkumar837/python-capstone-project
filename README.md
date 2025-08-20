@@ -18,9 +18,9 @@ This is my capstone project for Python Fundamentals, focusing on practical use o
 - Data Cleaning and Manipulation
 - Grouping, Aggregation
 - Applying Conditions with .loc and np.where
-- Creating visual plots with matplotlib (if added)
 
 ## 👨‍💻 Author
 
 Girish Kumar  
+
 Capstone Project – Skillovilla | Python Fundamentals Track
